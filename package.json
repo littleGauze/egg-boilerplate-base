@@ -1,5 +1,5 @@
 {
-  "name": "egg-boilerplate-base",
+  "name": "@littlegauze/egg-boilerplate-base",
   "version": "1.0.0",
   "description": "boilerplate for egg project",
   "dependencies": {},
@@ -36,12 +36,17 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git@github.com:littleGauze/egg-boilerplate-base.git"
+    "url": "git+https://github.com/littleGauze/egg-boilerplate-base.git"
   },
-  "files": [
-    "lib",
-    "index.js"
-  ],
   "author": "littleGauze",
-  "private": true
+  "bugs": {
+    "url": "https://github.com/littleGauze/egg-boilerplate-base/issues"
+  },
+  "homepage": "https://github.com/littleGauze/egg-boilerplate-base#readme",
+  "main": "index.js",
+  "keywords": [
+    "egg",
+    "boilerplate"
+  ],
+  "license": "MIT"
 }

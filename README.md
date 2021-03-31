@@ -8,7 +8,7 @@ Boilerplate for egg quickstart.
 
 ```bash
 $ npm i -g egg-init
-$ egg-init -r git@github.com:littleGauze/egg-boilerplate-base.git showcase
+$ egg-init --package @littlegauze/egg-boilerplate-base showcase
 $ cd showcase
 $ npm i
 $ npm run dev
